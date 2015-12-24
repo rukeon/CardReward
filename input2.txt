@@ -1,0 +1,10 @@
+[INFO ] 2015-12-19 15:12:05,630 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=4qpK cardId=5674f5280cf20e98bf4f946b event=EARLY_BIRD_2015_120
+[INFO ] 2015-12-19 15:12:41,098 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=4e9r cardId=5674f53e0cf20e98bf4f971a event=EARLY_BIRD_2015_120
+[INFO ] 2015-12-19 15:12:41,899 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=5iI1 cardId=5674f53b0cf20e98bf4f96b6 event=EARLY_BIRD_2015_80
+[INFO ] 2015-12-19 15:13:34,173 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=5dOG cardId=5674f5590cf20e98bf4f9a19 event=EARLY_BIRD_2015_80
+[INFO ] 2015-12-19 15:13:43,822 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=5wbj cardId=5674f5790cf20e98bf4f9def event=EARLY_BIRD_2015_50
+[INFO ] 2015-12-19 15:13:55,187 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=58ch cardId=5674f5810cf20e98bf4f9ef9 event=EARLY_BIRD_2015_100
+[INFO ] 2015-12-19 15:14:01,873 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=5H24 cardId=5674f56f0cf20e98bf4f9ce2 event=EARLY_BIRD_2015_150
+[INFO ] 2015-12-19 15:14:11,687 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=5xA3 cardId=5674f5870cf20e98bf4f9f9e event=EARLY_BIRD_2015_80
+[INFO ] 2015-12-19 15:14:13,172 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=4enI cardId=5674f57d0cf20e98bf4f9e7d event=EARLY_BIRD_2015_50
+[INFO ] 2015-12-19 15:14:49,445 com.scatterlab.bxt.controller.api.APICardController.setEvent - set event: userId=n7Ej cardId=5674f50e0cf20e98bf4f915e event=EARLY_BIRD_2015_150
